@@ -1,0 +1,24 @@
+.items-container {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+}
+p {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 500;
+}
+button {
+  color: #ff0b37;
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  cursor: pointer;
+  outline: none;
+  border-radius: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
